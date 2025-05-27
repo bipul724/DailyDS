@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/bipul724/DailyDS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bipul724/DailyDS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/bipul724/DailyDS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bipul724/DailyDS/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

@@ -1,19 +1,14 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int dat[] = new int[26];
-        for(int i=0;i<s.length();i++){
-            dat[s.charAt(i)-'a']++;
-        }
+        int n=0;
         for(int i=0;i<t.length();i++){
-            dat[t.charAt(i)-'a']--;
+             n= n + (int)t.charAt(i);
         }
-        int ans=0 ;
-        for(int i=0;i<dat.length;i++){
-            if(dat[i]==-1){
-                ans = i;
-                
-            }
+        for(int i=0;i<s.length();i++){
+            n= n - (int)s.charAt(i);
         }
-        return (char)(ans+'a');
+        
+        
+        return (char)(n);
     }
 }

@@ -97,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bipul724/DailyDS/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bipul724/DailyDS/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bipul724/DailyDS/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bipul724/DailyDS/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

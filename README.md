@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/bipul724/DailyDS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |

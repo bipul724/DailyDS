@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/bipul724/DailyDS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |

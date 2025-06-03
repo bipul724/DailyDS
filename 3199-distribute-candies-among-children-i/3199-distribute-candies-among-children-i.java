@@ -11,7 +11,7 @@ class Solution {
             int MinCh2 = Math.max(0,N-limit);
             int MaxCh2 = Math.min(N,limit);
 
-            ans += (MaxCh2-MinCh2+1);
+            ans += (MaxCh2 - MinCh2 + 1);
         }
         return ans;
     }

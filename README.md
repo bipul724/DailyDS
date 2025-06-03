@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bipul724/DailyDS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->

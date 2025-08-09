@@ -31,6 +31,15 @@ class Solution {
                 }
             }
         }
+
+
+        if(count_fresh==0){
+            return 0;
+        }
+        
+
+
+
         int tm  = 0;
         int cnt = 0;
         int []drow = {-1,0,1,0};

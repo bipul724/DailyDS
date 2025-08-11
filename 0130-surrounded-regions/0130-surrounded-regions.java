@@ -17,19 +17,20 @@ class Solution {
         int[][] visited = new int[m][n];
 
         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==0 || i==(m-1)){
-                    if(board[i][j]=='O'){
-                        dfs(board,visited,i,j);
-                    }
-                }
-                if(j==0 || j==(n-1)){
-                    if(board[i][j]=='O'){
-                        dfs(board,visited,i,j);
-                    }
-                }
+            if(visited[i][0]==0 && board[i][0]=='O'){
+                dfs(board,visited,i,0);
+            }
+            if(visited[i][n-1]==0 && board[i][n-1]=='O'){
+                dfs(board,visited,i,n-1);
+            }
+        }
 
-
+        for(int j=0;j<n;j++){
+            if(visited[0][j]==0 && board[0][j]=='O'){
+                dfs(board,visited,0,j);
+            }
+            if(visited[m-1][j]==0 && board[m-1][j]=='O'){
+                dfs(board,visited,m-1,j);
             }
         }
 

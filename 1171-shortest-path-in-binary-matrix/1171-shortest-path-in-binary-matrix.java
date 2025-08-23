@@ -12,15 +12,16 @@ class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
+        if(grid[0][0]==1 || grid[n-1][m-1]==1){
+            return -1;
+        }
 
         int [][]dist= new int[n][m];
         int INF = (int)(1e9);
         for(int i=0;i<n;i++){
             Arrays.fill(dist[i],INF);
         }
-        if(grid[0][0]==1){
-            return -1;
-        }
+        
         dist[0][0]=0;
 
         Queue<Pair> q = new LinkedList<Pair>();

@@ -33,6 +33,11 @@ class Solution {
             int dis = pq.peek().dist;
             pq.remove();
 
+            if (row == n - 1 && col == m - 1) {
+                return dis;
+            }
+
+
             for(int i=0;i<4;i++){
                 int newrow = row + delrow[i];
                 int newcol = col + delcol[i];
@@ -50,9 +55,9 @@ class Solution {
 
 
         }
-        if(dist[n-1][m-1]==INF){
-            return -1;
-        }
-        return dist[n-1][m-1];
+        
+        return -1;
+        
+        
     }
 }

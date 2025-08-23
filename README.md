@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bipul724/DailyDS/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/bipul724/DailyDS/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Brainteaser
 |  |
 | ------- |

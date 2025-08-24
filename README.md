@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -175,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/bipul724/DailyDS/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/bipul724/DailyDS/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bipul724/DailyDS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bipul724/DailyDS/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/bipul724/DailyDS/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/bipul724/DailyDS/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
+| [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |

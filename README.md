@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bipul724/DailyDS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/bipul724/DailyDS/tree/master/3201-distribute-candies-among-children-ii) |
+| [3830-find-closest-person](https://github.com/bipul724/DailyDS/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |

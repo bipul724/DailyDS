@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/bipul724/DailyDS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/bipul724/DailyDS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/bipul724/DailyDS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/bipul724/DailyDS/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/bipul724/DailyDS/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
@@ -280,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/bipul724/DailyDS/tree/master/0147-insertion-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

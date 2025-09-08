@@ -16,6 +16,7 @@ class Solution {
             if(valid(a) && valid(b)){
                 ans[0]=a;
                 ans[1]=b;
+                break;
             }
         }
         return ans;

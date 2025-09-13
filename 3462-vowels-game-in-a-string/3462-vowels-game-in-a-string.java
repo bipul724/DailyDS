@@ -1,15 +1,10 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-        HashSet<Character> set = new HashSet<>(
-            Arrays.asList('a', 'e', 'i', 'o', 'u')
-        );
+        for(int i=0;i<s.length();i++){
+            int ch=s.charAt(i);
+            if(ch=='a' || ch=='e' ||ch=='i' ||ch=='o' ||ch=='u') return true;
 
-        for(char c : s.toCharArray()){
-            if(set.contains(c)){
-                return true;
-            }
-        }
-        return false;
+        } return false;
 
 
     }

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/bipul724/DailyDS/tree/master/0854-making-a-large-island) |
+| [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
+| [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
+| [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bipul724/DailyDS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |

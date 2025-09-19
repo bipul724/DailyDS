@@ -18,15 +18,26 @@ class Spreadsheet {
     
     public int getValue(String formula) {
         String str[] = formula.substring(1).split("\\+");
-        int sum = 0;
-        for(String s : str){
-            if (isInteger(s)==true) { 
-                sum += Integer.parseInt(s);
-            } else {
-                sum += map.getOrDefault(s, 0);
-            }
+        int val1 = 0;
+        String s1 = str[0];
+        if (isInteger(s1)==true) { 
+                val1 += Integer.parseInt(s1);
+        } 
+        else {
+            val1 += map.getOrDefault(s1, 0);
         }
-        return sum;
+
+
+        int val2 = 0;
+        String s2 = str[1];
+        if (isInteger(s2)==true) { 
+                val2 += Integer.parseInt(s2);
+        } 
+        else {
+            val2 += map.getOrDefault(s2, 0);
+        }
+        
+        return val1+val2;
     }
 }
 

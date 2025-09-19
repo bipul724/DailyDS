@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/bipul724/DailyDS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bipul724/DailyDS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/bipul724/DailyDS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |

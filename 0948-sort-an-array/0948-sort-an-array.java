@@ -1,37 +1,52 @@
 class Solution {
-    Random rand = new Random();
-    public void swap(int []arr,int i,int j){
-        int temp = arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
-    public void quicksort(int []arr,int low,int high){
-        if(low<high){
-            int x = partition(arr,low,high);
-            quicksort(arr,low,x-1);
-            quicksort(arr,x+1,high);
-        }
-    }
-    public int partition(int []arr,int low,int high){
-       int pivotIndex = low + rand.nextInt(high - low + 1);
-        swap(arr, pivotIndex, high);
+    public void heapify(int[] arr, int n, int i) {
+        int largest = i;          // assume root is largest
+        int left = 2 * i + 1;     // left child
+        int right = 2 * i + 2;    // right child
 
-        int pivot = arr[high]; 
-        int i = low - 1;       
-   
-
-        for (int j = low; j < high; j++) {
-            if (arr[j] < pivot) {
-                i++;
-                swap(arr, i, j);
-            }
+        // if left child is bigger
+        if (left < n && arr[left] > arr[largest]) {
+            largest = left;
         }
 
-        swap(arr, i + 1, high);
-        return i + 1; 
+        // if right child is bigger
+        if (right < n && arr[right] > arr[largest]) {
+            largest = right;
+        }
+
+        // if largest is not root
+        if (largest != i) {
+            int temp = arr[i];
+            arr[i] = arr[largest];
+            arr[largest] = temp;
+
+            // recursively heapify the affected subtree
+            heapify(arr, n, largest);
+        }
     }
+
+    public void heapSort(int[] arr) {
+        int n = arr.length;
+
+        // Step 1: Build max heap
+        for (int i = n / 2 - 1; i >= 0; i--) {
+            heapify(arr, n, i);
+        }
+
+        // Step 2: Extract elements from heap one by one
+        for (int i = n - 1; i > 0; i--) {
+            // Move current root (max) to end
+            int temp = arr[0];
+            arr[0] = arr[i];
+            arr[i] = temp;
+
+            // call max heapify on the reduced heap
+            heapify(arr, i, 0);
+        }
+    }
+
     public int[] sortArray(int[] nums) {
-        quicksort(nums, 0, nums.length - 1);
+        heapSort(nums);
         return nums;
     }
 }

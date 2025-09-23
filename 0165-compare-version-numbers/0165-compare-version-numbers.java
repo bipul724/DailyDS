@@ -39,48 +39,9 @@ class Solution {
             }
 
         }
-        // StringBuilder sb1 = new StringBuilder();
-        // StringBuilder sb2 = new StringBuilder();
-        // while (i<n1) {
-        //     v1 = version1.charAt(i);
-        //     if(v1=='.'){
-        //         String st1 = sb1.toString();
-        //         System.out.println(st1);
+        
 
-        //         if(Integer.valueOf(st1)==0){
-        //             i++;
-        //         }
-        //         else{
-        //             return 1;
-        //         }
-        //         sb1 = new StringBuilder();
-        //     }
-        //     else{
-        //         sb1.append(v1);
-
-        //         i++;
-        //     }
-        //     // System.out.println(i);
-        // }
-
-        // while (j<n2) {
-        //     v2 = version2.charAt(j);
-        //     if(v2=='.'){
-        //         String st2 = sb2.toString();
-        //         if(Integer.valueOf(st2)==0){
-        //             j++;
-        //         }
-        //         else{
-        //             return -1;
-        //         }
-        //         sb2 = new StringBuilder();
-        //     }
-        //     else{
-        //         sb2.append(v2);
-
-        //         j++;
-        //     }
-        // }
+        
 
         while (i < n1 ) {
             StringBuilder sb1 = new StringBuilder();

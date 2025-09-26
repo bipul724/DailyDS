@@ -11,9 +11,7 @@ class Solution {
                     count += (j-i);
                     j--;
                 }
-                // else if(nums[i]+nums[j]<=nums[k]){
-                //     i++;
-                // }
+                
                 else{
                     i++;
                 }

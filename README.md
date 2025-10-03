@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/bipul724/DailyDS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipul724/DailyDS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/bipul724/DailyDS/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |

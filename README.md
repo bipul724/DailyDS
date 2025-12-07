@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/bipul724/DailyDS/tree/master/0171-excel-sheet-column-number) |
 | [0830-largest-triangle-area](https://github.com/bipul724/DailyDS/tree/master/0830-largest-triangle-area) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bipul724/DailyDS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/bipul724/DailyDS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bipul724/DailyDS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bipul724/DailyDS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipul724/DailyDS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/bipul724/DailyDS/tree/master/3462-vowels-game-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipul724/DailyDS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
+| [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Rolling Hash
 |  |
 | ------- |

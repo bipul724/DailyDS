@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
 | [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |

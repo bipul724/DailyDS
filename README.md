@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bipul724/DailyDS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
 ## Queue
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |

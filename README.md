@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bipul724/DailyDS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/bipul724/DailyDS/tree/master/3637-trionic-array-i) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |

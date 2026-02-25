@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/bipul724/DailyDS/tree/master/0383-ransom-note) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/bipul724/DailyDS/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/bipul724/DailyDS/tree/master/0168-excel-sheet-column-title) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/bipul724/DailyDS/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0438-find-all-anagrams-in-a-string) |

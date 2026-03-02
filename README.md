@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bipul724/DailyDS/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/bipul724/DailyDS/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Rolling Hash
 |  |
 | ------- |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bipul724/DailyDS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bipul724/DailyDS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bipul724/DailyDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bipul724/DailyDS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |

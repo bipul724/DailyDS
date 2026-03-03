@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bipul724/DailyDS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bipul724/DailyDS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/bipul724/DailyDS/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/bipul724/DailyDS/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/bipul724/DailyDS/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3336-water-bottles-ii](https://github.com/bipul724/DailyDS/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |

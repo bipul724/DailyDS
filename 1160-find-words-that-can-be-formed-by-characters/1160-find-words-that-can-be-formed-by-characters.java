@@ -20,6 +20,7 @@ class Solution {
             for(int i=0;i<26;i++){
                 if(arr[i]<arr1[i]){
                     flag =false;
+                    break;
                 }
             }
 

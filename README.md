@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/bipul724/DailyDS/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |

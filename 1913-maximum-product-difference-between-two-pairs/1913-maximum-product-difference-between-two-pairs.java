@@ -1,8 +1,8 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
         
-        int max1 =  Integer.MIN_VALUE;
-        int max2 = Integer.MIN_VALUE;
+        int max1 =  -1;
+        int max2 = -1;
         int min1 = Integer.MAX_VALUE;
         int min2 = Integer.MAX_VALUE;
 

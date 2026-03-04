@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bipul724/DailyDS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1436-destination-city](https://github.com/bipul724/DailyDS/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/bipul724/DailyDS/tree/master/1496-path-crossing) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/bipul724/DailyDS/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bipul724/DailyDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/bipul724/DailyDS/tree/master/1496-path-crossing) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bipul724/DailyDS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bipul724/DailyDS/tree/master/2024-maximize-the-confusion-of-an-exam) |

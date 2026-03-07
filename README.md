@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/bipul724/DailyDS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
+| [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/bipul724/DailyDS/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/bipul724/DailyDS/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
+| [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bipul724/DailyDS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/bipul724/DailyDS/tree/master/3201-distribute-candies-among-children-ii) |

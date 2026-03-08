@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/bipul724/DailyDS/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/bipul724/DailyDS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bipul724/DailyDS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bipul724/DailyDS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bipul724/DailyDS/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/bipul724/DailyDS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bipul724/DailyDS/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bipul724/DailyDS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/bipul724/DailyDS/tree/master/0383-ransom-note) |

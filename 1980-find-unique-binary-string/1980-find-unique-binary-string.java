@@ -1,17 +1,17 @@
 class Solution {
     public String findDifferentBinaryString(String[] nums) {
-        String ans = "" ;
+        StringBuilder sb = new StringBuilder() ;
 
         for(int i=0;i<nums.length;i++){
             char ch = nums[i].charAt(i);
             if(ch=='1'){
-                ans+='0';
+                sb.append('0');
             }
             else{
-                ans+='1';
+                sb.append('1');
             }
         }
 
-        return ans;
+        return sb.toString();
     }
 }

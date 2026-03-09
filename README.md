@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bipul724/DailyDS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bipul724/DailyDS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/bipul724/DailyDS/tree/master/0830-largest-triangle-area) |
+| [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bipul724/DailyDS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bipul724/DailyDS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/bipul724/DailyDS/tree/master/1980-find-unique-binary-string) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

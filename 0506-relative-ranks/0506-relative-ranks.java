@@ -1,35 +1,33 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
-        int nums[] = new int[score.length];
-        for(int i=0;i<score.length;i++){
-            nums[i]=score[i];
-        }
-        Arrays.sort(score);
+        int n = score.length;
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[0]-a[0]);
 
-        HashMap<Integer,Integer> map = new HashMap<>();
-
-        for(int i=0;i<score.length;i++){
-            map.put(score[i],score.length-i);
+        for(int i=0;i<n;i++){
+            pq.offer(new int[]{score[i],i});
         }
 
-        String arr[] = new String[score.length];
+        String ans[] = new String[n];
+        int rank=1;
 
-        for(int i=0;i<score.length;i++){
-            int x = map.get(nums[i]);
-            if(x==1){
-                arr[i]="Gold Medal" ;
+        while(!pq.isEmpty()){
+            int []x = pq.poll();
+            int idx = x[1];
+
+            if(rank==1){
+                ans[idx] = "Gold Medal";
             }
-            else if(x==2){
-                arr[i]="Silver Medal";
+            else if(rank==2){
+                ans[idx] = "Silver Medal";
             }
-            else if(x==3){
-                arr[i]="Bronze Medal";
+            else if(rank==3){
+                ans[idx] = "Bronze Medal";
             }
             else{
-                arr[i] = x+"";
+                ans[idx] = String.valueOf(rank);
             }
-            
+            rank++;
         }
-        return arr;
+        return ans;
     }
 }

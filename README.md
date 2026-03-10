@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/bipul724/DailyDS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipul724/DailyDS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bipul724/DailyDS/tree/master/0209-minimum-size-subarray-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/bipul724/DailyDS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bipul724/DailyDS/tree/master/0231-power-of-two) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/bipul724/DailyDS/tree/master/1980-find-unique-binary-string) |
 ## Memoization
 |  |

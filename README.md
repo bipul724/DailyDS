@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bipul724/DailyDS/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/bipul724/DailyDS/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/bipul724/DailyDS/tree/master/1009-complement-of-base-10-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |

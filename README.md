@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bipul724/DailyDS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1980-find-unique-binary-string](https://github.com/bipul724/DailyDS/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/bipul724/DailyDS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bipul724/DailyDS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/bipul724/DailyDS/tree/master/2090-k-radius-subarray-averages) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/bipul724/DailyDS/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/bipul724/DailyDS/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bipul724/DailyDS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/bipul724/DailyDS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bipul724/DailyDS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2582-pass-the-pillow](https://github.com/bipul724/DailyDS/tree/master/2582-pass-the-pillow) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bipul724/DailyDS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/bipul724/DailyDS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bipul724/DailyDS/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 ## Brainteaser

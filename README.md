@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/bipul724/DailyDS/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
+| [2582-pass-the-pillow](https://github.com/bipul724/DailyDS/tree/master/2582-pass-the-pillow) |
 | [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bipul724/DailyDS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bipul724/DailyDS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bipul724/DailyDS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2582-pass-the-pillow](https://github.com/bipul724/DailyDS/tree/master/2582-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/bipul724/DailyDS/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 ## Combinatorics

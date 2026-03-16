@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bipul724/DailyDS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/bipul724/DailyDS/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/bipul724/DailyDS/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/bipul724/DailyDS/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bipul724/DailyDS/tree/master/2024-maximize-the-confusion-of-an-exam) |

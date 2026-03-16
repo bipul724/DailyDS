@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/bipul724/DailyDS/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -627,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/bipul724/DailyDS/tree/master/1791-find-center-of-star-graph) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bipul724/DailyDS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

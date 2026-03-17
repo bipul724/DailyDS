@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bipul724/DailyDS/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1408-string-matching-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1408-string-matching-in-an-array) |
 | [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1436-destination-city](https://github.com/bipul724/DailyDS/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bipul724/DailyDS/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1408-string-matching-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/bipul724/DailyDS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/bipul724/DailyDS/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bipul724/DailyDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/bipul724/DailyDS/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1408-string-matching-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |

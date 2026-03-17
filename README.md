@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bipul724/DailyDS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bipul724/DailyDS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/bipul724/DailyDS/tree/master/3201-distribute-candies-among-children-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-water-bottles-ii](https://github.com/bipul724/DailyDS/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/bipul724/DailyDS/tree/master/3462-vowels-game-in-a-string) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bipul724/DailyDS/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/bipul724/DailyDS/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bipul724/DailyDS/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-water-bottles-ii](https://github.com/bipul724/DailyDS/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 ## Combinatorics
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bipul724/DailyDS/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |

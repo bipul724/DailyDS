@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/bipul724/DailyDS/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/bipul724/DailyDS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bipul724/DailyDS/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bipul724/DailyDS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bipul724/DailyDS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bipul724/DailyDS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/bipul724/DailyDS/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bipul724/DailyDS/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |

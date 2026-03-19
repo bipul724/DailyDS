@@ -22,11 +22,11 @@ class Solution {
             while(max.peekFirst()-min.peekFirst()>limit){
                 if(nums[i]==max.peekFirst()){
                     int x= max.pollFirst();
-                    System.out.println(x);
+                    
                 }
                 if(nums[i]==min.peekFirst()){
                     int y = min.pollFirst();
-                    System.out.println(y);
+                    
                 }
                 i++;
             }

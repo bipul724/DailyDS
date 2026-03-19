@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1408-string-matching-in-an-array) |
 | [1428-jump-game-iii](https://github.com/bipul724/DailyDS/tree/master/1428-jump-game-iii) |
 | [1436-destination-city](https://github.com/bipul724/DailyDS/tree/master/1436-destination-city) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bipul724/DailyDS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bipul724/DailyDS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bipul724/DailyDS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0387-first-unique-character-in-a-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bipul724/DailyDS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bipul724/DailyDS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bipul724/DailyDS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/bipul724/DailyDS/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/bipul724/DailyDS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bipul724/DailyDS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bipul724/DailyDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/bipul724/DailyDS/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bipul724/DailyDS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bipul724/DailyDS/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bipul724/DailyDS/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bipul724/DailyDS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Recursion
 |  |
@@ -667,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bipul724/DailyDS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bipul724/DailyDS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->

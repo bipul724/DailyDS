@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/bipul724/DailyDS/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/bipul724/DailyDS/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2460-apply-operations-to-an-array](https://github.com/bipul724/DailyDS/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/bipul724/DailyDS/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bipul724/DailyDS/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/bipul724/DailyDS/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/bipul724/DailyDS/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/bipul724/DailyDS/tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/bipul724/DailyDS/tree/master/2540-minimum-common-value) |
 ## Queue
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/bipul724/DailyDS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bipul724/DailyDS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/bipul724/DailyDS/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bipul724/DailyDS/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/bipul724/DailyDS/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bipul724/DailyDS/tree/master/2696-minimum-string-length-after-removing-substrings) |

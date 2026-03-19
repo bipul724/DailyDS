@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/bipul724/DailyDS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bipul724/DailyDS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1408-string-matching-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/bipul724/DailyDS/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/bipul724/DailyDS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bipul724/DailyDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bipul724/DailyDS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1208-get-equal-substrings-within-budget](https://github.com/bipul724/DailyDS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bipul724/DailyDS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/bipul724/DailyDS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/bipul724/DailyDS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |

@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/bipul724/DailyDS/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/bipul724/DailyDS/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/bipul724/DailyDS/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/bipul724/DailyDS/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipul724/DailyDS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/bipul724/DailyDS/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bipul724/DailyDS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bipul724/DailyDS/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bipul724/DailyDS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/bipul724/DailyDS/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/bipul724/DailyDS/tree/master/1052-grumpy-bookstore-owner) |

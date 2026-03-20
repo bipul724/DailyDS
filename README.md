@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bipul724/DailyDS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bipul724/DailyDS/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/bipul724/DailyDS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bipul724/DailyDS/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |

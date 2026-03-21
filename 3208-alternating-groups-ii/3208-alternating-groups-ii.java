@@ -5,7 +5,7 @@ class Solution {
         int n = colors.length;
         int ans = 0;
         while(j<2*n){
-            if(j>0 && (Math.abs(colors[j%n]-colors[(j-1)%n])!=1)){
+            if(j>0 && (Math.abs(colors[j%n]-colors[(j+1)%n])!=1)){
                 i=j;
             }
             if((j-i+1)>k){

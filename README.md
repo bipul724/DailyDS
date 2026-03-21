@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/bipul724/DailyDS/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipul724/DailyDS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/bipul724/DailyDS/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2540-minimum-common-value](https://github.com/bipul724/DailyDS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/bipul724/DailyDS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/bipul724/DailyDS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/bipul724/DailyDS/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bipul724/DailyDS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bipul724/DailyDS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipul724/DailyDS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/bipul724/DailyDS/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bipul724/DailyDS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bipul724/DailyDS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |

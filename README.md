@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bipul724/DailyDS/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/bipul724/DailyDS/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/bipul724/DailyDS/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/bipul724/DailyDS/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/bipul724/DailyDS/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bipul724/DailyDS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/bipul724/DailyDS/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Rolling Hash
 |  |
 | ------- |

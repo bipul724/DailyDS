@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/bipul724/DailyDS/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2401-longest-nice-subarray](https://github.com/bipul724/DailyDS/tree/master/2401-longest-nice-subarray) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/bipul724/DailyDS/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2460-apply-operations-to-an-array](https://github.com/bipul724/DailyDS/tree/master/2460-apply-operations-to-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
+| [2401-longest-nice-subarray](https://github.com/bipul724/DailyDS/tree/master/2401-longest-nice-subarray) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bipul724/DailyDS/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/bipul724/DailyDS/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bipul724/DailyDS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2401-longest-nice-subarray](https://github.com/bipul724/DailyDS/tree/master/2401-longest-nice-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bipul724/DailyDS/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipul724/DailyDS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/bipul724/DailyDS/tree/master/2516-take-k-of-each-character-from-left-and-right) |

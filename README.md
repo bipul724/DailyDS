@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/bipul724/DailyDS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/bipul724/DailyDS/tree/master/2762-continuous-subarrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bipul724/DailyDS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/bipul724/DailyDS/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/bipul724/DailyDS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/bipul724/DailyDS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/bipul724/DailyDS/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/bipul724/DailyDS/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2762-continuous-subarrays](https://github.com/bipul724/DailyDS/tree/master/2762-continuous-subarrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bipul724/DailyDS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3208-alternating-groups-ii](https://github.com/bipul724/DailyDS/tree/master/3208-alternating-groups-ii) |

@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bipul724/DailyDS/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/bipul724/DailyDS/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/bipul724/DailyDS/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bipul724/DailyDS/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/bipul724/DailyDS/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/bipul724/DailyDS/tree/master/2000-reverse-prefix-of-word) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/bipul724/DailyDS/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/bipul724/DailyDS/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/bipul724/DailyDS/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bipul724/DailyDS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/bipul724/DailyDS/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bipul724/DailyDS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/bipul724/DailyDS/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bipul724/DailyDS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

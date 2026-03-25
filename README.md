@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bipul724/DailyDS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bipul724/DailyDS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |

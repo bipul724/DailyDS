@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/bipul724/DailyDS/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/bipul724/DailyDS/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bipul724/DailyDS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |

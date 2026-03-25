@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/bipul724/DailyDS/tree/master/3637-trionic-array-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/bipul724/DailyDS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/bipul724/DailyDS/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/bipul724/DailyDS/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/bipul724/DailyDS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bipul724/DailyDS/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bipul724/DailyDS/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/bipul724/DailyDS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
 |  |
 | ------- |

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bipul724/DailyDS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/bipul724/DailyDS/tree/master/1534-count-good-triplets) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1598-crawler-log-folder](https://github.com/bipul724/DailyDS/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bipul724/DailyDS/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bipul724/DailyDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/bipul724/DailyDS/tree/master/1496-path-crossing) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/bipul724/DailyDS/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bipul724/DailyDS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/bipul724/DailyDS/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bipul724/DailyDS/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/bipul724/DailyDS/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bipul724/DailyDS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bipul724/DailyDS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |

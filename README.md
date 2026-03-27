@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/bipul724/DailyDS/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/bipul724/DailyDS/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/bipul724/DailyDS/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bipul724/DailyDS/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/bipul724/DailyDS/tree/master/1122-relative-sort-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
 |  |

@@ -16,15 +16,17 @@ class Solution {
             if(x<2){
                 return -1;
             }
-            else if((x)%3==0){
-                count += x/3;
-            }
-            else if(x%3==2 || x%3==1){
-                count += (x/3)+1;
-            }
-            else if(x%2==0){
-                count+=(x/2);
-            }
+            // else if((x)%3==0){
+            //     count += x/3;
+            // }
+            // else if(x%3==2 || x%3==1){
+            //     count += (x/3)+1;
+            // }
+            // else if(x%2==0){
+            //     count+=(x/2);
+            // }
+
+            count += (x+2)/3;
             
         }
         return count;

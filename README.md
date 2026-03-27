@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/bipul724/DailyDS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bipul724/DailyDS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bipul724/DailyDS/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bipul724/DailyDS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bipul724/DailyDS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/bipul724/DailyDS/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |

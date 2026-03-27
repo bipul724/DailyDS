@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2405-optimal-partition-of-string](https://github.com/bipul724/DailyDS/tree/master/2405-optimal-partition-of-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/bipul724/DailyDS/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipul724/DailyDS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/bipul724/DailyDS/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/bipul724/DailyDS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2405-optimal-partition-of-string](https://github.com/bipul724/DailyDS/tree/master/2405-optimal-partition-of-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/bipul724/DailyDS/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bipul724/DailyDS/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bipul724/DailyDS/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bipul724/DailyDS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/bipul724/DailyDS/tree/master/2405-optimal-partition-of-string) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |

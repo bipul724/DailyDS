@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bipul724/DailyDS/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/bipul724/DailyDS/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1980-find-unique-binary-string](https://github.com/bipul724/DailyDS/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/bipul724/DailyDS/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/bipul724/DailyDS/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/bipul724/DailyDS/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bipul724/DailyDS/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/bipul724/DailyDS/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bipul724/DailyDS/tree/master/2094-finding-3-digit-even-numbers) |

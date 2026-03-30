@@ -7,14 +7,10 @@ class Solution {
             if(nums[i]<=nums[i+1]){
                 continue;
             }
-            long parts = (long)nums[i]/(long)nums[i+1];
+            long parts = (nums[i]+nums[i+1]-1)/nums[i+1];
 
-            if(nums[i]%nums[i+1]!=0){
-                parts++;;
-            }
-            // else{
-            //     count+=parts;
-            // }
+            
+            
             count += parts-1;
             nums[i]=nums[i]/(int)parts;
         }

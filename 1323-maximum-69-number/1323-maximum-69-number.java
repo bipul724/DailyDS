@@ -1,17 +1,21 @@
 class Solution {
     public int maximum69Number (int num) {
-        StringBuilder sb = new StringBuilder(String.valueOf(num));
+        int x = 0;
+        int y = -1;
+        int z= num;
 
-        int n = sb.length();
-
-        for(int i = 0;i<n;i++){
-            char ch = sb.charAt(i);
-            if(ch=='6'){
-                sb.setCharAt(i,'9');
-                break;
+        while(num>0){
+            int rem = num%10;
+            num/=10;
+            if(rem==6){
+                y=x;
             }
+            x++;
+        }
+        if(y==-1){
+            return z;
         }
 
-        return Integer.valueOf(sb.toString());
+        return z + (int)(3*(Math.pow(10,y)));
     }
 }

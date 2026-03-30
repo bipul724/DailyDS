@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bipul724/DailyDS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/bipul724/DailyDS/tree/master/2090-k-radius-subarray-averages) |
+| [2094-finding-3-digit-even-numbers](https://github.com/bipul724/DailyDS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/bipul724/DailyDS/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bipul724/DailyDS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/bipul724/DailyDS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/bipul724/DailyDS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2159-two-out-of-three](https://github.com/bipul724/DailyDS/tree/master/2159-two-out-of-three) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bipul724/DailyDS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bipul724/DailyDS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/bipul724/DailyDS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2094-finding-3-digit-even-numbers](https://github.com/bipul724/DailyDS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bipul724/DailyDS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bipul724/DailyDS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bipul724/DailyDS/tree/master/2331-intersection-of-multiple-arrays) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/bipul724/DailyDS/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/bipul724/DailyDS/tree/master/1925-count-square-sum-triples) |
+| [2094-finding-3-digit-even-numbers](https://github.com/bipul724/DailyDS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2843-count-symmetric-integers](https://github.com/bipul724/DailyDS/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bipul724/DailyDS/tree/master/0231-power-of-two) |
+| [2094-finding-3-digit-even-numbers](https://github.com/bipul724/DailyDS/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |

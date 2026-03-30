@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bipul724/DailyDS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/bipul724/DailyDS/tree/master/1534-count-good-triplets) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1598-crawler-log-folder](https://github.com/bipul724/DailyDS/tree/master/1598-crawler-log-folder) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/bipul724/DailyDS/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/bipul724/DailyDS/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/bipul724/DailyDS/tree/master/1328-break-a-palindrome) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bipul724/DailyDS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1518-water-bottles](https://github.com/bipul724/DailyDS/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bipul724/DailyDS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/bipul724/DailyDS/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/bipul724/DailyDS/tree/master/1925-count-square-sum-triples) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/bipul724/DailyDS/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/bipul724/DailyDS/tree/master/3462-vowels-game-in-a-string) |
 ## Design

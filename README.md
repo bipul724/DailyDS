@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bipul724/DailyDS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bipul724/DailyDS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bipul724/DailyDS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/bipul724/DailyDS/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/bipul724/DailyDS/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bipul724/DailyDS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bipul724/DailyDS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1496-path-crossing](https://github.com/bipul724/DailyDS/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/bipul724/DailyDS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/bipul724/DailyDS/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/bipul724/DailyDS/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/bipul724/DailyDS/tree/master/1328-break-a-palindrome) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bipul724/DailyDS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bipul724/DailyDS/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/bipul724/DailyDS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1399-count-largest-group](https://github.com/bipul724/DailyDS/tree/master/1399-count-largest-group) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bipul724/DailyDS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bipul724/DailyDS/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bipul724/DailyDS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bipul724/DailyDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bipul724/DailyDS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/bipul724/DailyDS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |

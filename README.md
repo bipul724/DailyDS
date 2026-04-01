@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-special-array-i](https://github.com/bipul724/DailyDS/tree/master/3151-special-array-i) |
 | [3208-alternating-groups-ii](https://github.com/bipul724/DailyDS/tree/master/3208-alternating-groups-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bipul724/DailyDS/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/bipul724/DailyDS/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |

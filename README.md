@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bipul724/DailyDS/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bipul724/DailyDS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3174-clear-digits](https://github.com/bipul724/DailyDS/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/bipul724/DailyDS/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bipul724/DailyDS/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/bipul724/DailyDS/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bipul724/DailyDS/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/bipul724/DailyDS/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipul724/DailyDS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/bipul724/DailyDS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming

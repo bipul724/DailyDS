@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-special-array-i](https://github.com/bipul724/DailyDS/tree/master/3151-special-array-i) |
 | [3208-alternating-groups-ii](https://github.com/bipul724/DailyDS/tree/master/3208-alternating-groups-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bipul724/DailyDS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/bipul724/DailyDS/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/bipul724/DailyDS/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/bipul724/DailyDS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/bipul724/DailyDS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Queue
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bipul724/DailyDS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bipul724/DailyDS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
 | ------- |

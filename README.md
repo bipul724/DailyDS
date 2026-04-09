@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bipul724/DailyDS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bipul724/DailyDS/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
+| [0330-patching-array](https://github.com/bipul724/DailyDS/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/bipul724/DailyDS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipul724/DailyDS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bipul724/DailyDS/tree/master/0134-gas-station) |
+| [0330-patching-array](https://github.com/bipul724/DailyDS/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/bipul724/DailyDS/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |

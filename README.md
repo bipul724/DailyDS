@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/bipul724/DailyDS/tree/master/3151-special-array-i) |
 | [3208-alternating-groups-ii](https://github.com/bipul724/DailyDS/tree/master/3208-alternating-groups-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/bipul724/DailyDS/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bipul724/DailyDS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/bipul724/DailyDS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/bipul724/DailyDS/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/bipul724/DailyDS/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/bipul724/DailyDS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/bipul724/DailyDS/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3433-count-mentions-per-user](https://github.com/bipul724/DailyDS/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming

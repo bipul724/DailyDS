@@ -13,10 +13,10 @@ class Solution {
             if (!set.contains(i) && i<maxSum) {
                 sum += i;
                 if (sum <= maxSum) {
-                    System.out.println(sum + " " + i + " " + count);
+                    
                     count++;
                 } else {
-                    System.out.println(sum + " " + i + " " + count);
+                    
                     break;
                 }
 

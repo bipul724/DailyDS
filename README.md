@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bipul724/DailyDS/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/bipul724/DailyDS/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/bipul724/DailyDS/tree/master/0624-maximum-distance-in-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/bipul724/DailyDS/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/bipul724/DailyDS/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/bipul724/DailyDS/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/bipul724/DailyDS/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/bipul724/DailyDS/tree/master/0860-lemonade-change) |

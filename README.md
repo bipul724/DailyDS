@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/bipul724/DailyDS/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1024-video-stitching](https://github.com/bipul724/DailyDS/tree/master/1024-video-stitching) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1052-grumpy-bookstore-owner](https://github.com/bipul724/DailyDS/tree/master/1052-grumpy-bookstore-owner) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bipul724/DailyDS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/bipul724/DailyDS/tree/master/0991-broken-calculator) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/bipul724/DailyDS/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1024-video-stitching](https://github.com/bipul724/DailyDS/tree/master/1024-video-stitching) |
 | [1323-maximum-69-number](https://github.com/bipul724/DailyDS/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/bipul724/DailyDS/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |

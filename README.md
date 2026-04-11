@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/bipul724/DailyDS/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/bipul724/DailyDS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/bipul724/DailyDS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2405-optimal-partition-of-string](https://github.com/bipul724/DailyDS/tree/master/2405-optimal-partition-of-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bipul724/DailyDS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bipul724/DailyDS/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bipul724/DailyDS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/bipul724/DailyDS/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/bipul724/DailyDS/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bipul724/DailyDS/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bipul724/DailyDS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bipul724/DailyDS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bipul724/DailyDS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/bipul724/DailyDS/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Graph Theory
 |  |
 | ------- |

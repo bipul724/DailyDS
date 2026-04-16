@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/bipul724/DailyDS/tree/master/1642-furthest-building-you-can-reach) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bipul724/DailyDS/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bipul724/DailyDS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/bipul724/DailyDS/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
 | [1792-maximum-average-pass-ratio](https://github.com/bipul724/DailyDS/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bipul724/DailyDS/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/bipul724/DailyDS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bipul724/DailyDS/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/bipul724/DailyDS/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bipul724/DailyDS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1813-maximum-erasure-value](https://github.com/bipul724/DailyDS/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bipul724/DailyDS/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bipul724/DailyDS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/bipul724/DailyDS/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bipul724/DailyDS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/bipul724/DailyDS/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/bipul724/DailyDS/tree/master/1792-maximum-average-pass-ratio) |
 | [1833-maximum-ice-cream-bars](https://github.com/bipul724/DailyDS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bipul724/DailyDS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bipul724/DailyDS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/bipul724/DailyDS/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bipul724/DailyDS/tree/master/1380-lucky-numbers-in-a-matrix) |

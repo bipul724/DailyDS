@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bipul724/DailyDS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bipul724/DailyDS/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/bipul724/DailyDS/tree/master/0231-power-of-two) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Graph Theory

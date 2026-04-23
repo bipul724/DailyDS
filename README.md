@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/bipul724/DailyDS/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/bipul724/DailyDS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipul724/DailyDS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0403-frog-jump](https://github.com/bipul724/DailyDS/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/bipul724/DailyDS/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/bipul724/DailyDS/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1024-video-stitching](https://github.com/bipul724/DailyDS/tree/master/1024-video-stitching) |

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bipul724/DailyDS/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bipul724/DailyDS/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/bipul724/DailyDS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/bipul724/DailyDS/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/bipul724/DailyDS/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/bipul724/DailyDS/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bipul724/DailyDS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bipul724/DailyDS/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bipul724/DailyDS/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/bipul724/DailyDS/tree/master/2574-left-and-right-sum-differences) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bipul724/DailyDS/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/bipul724/DailyDS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue

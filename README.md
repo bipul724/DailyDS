@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bipul724/DailyDS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/bipul724/DailyDS/tree/master/0830-largest-triangle-area) |
+| [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/bipul724/DailyDS/tree/master/0854-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/bipul724/DailyDS/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bipul724/DailyDS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/bipul724/DailyDS/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/bipul724/DailyDS/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/bipul724/DailyDS/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/bipul724/DailyDS/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/bipul724/DailyDS/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
 | [1024-video-stitching](https://github.com/bipul724/DailyDS/tree/master/1024-video-stitching) |
 | [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bipul724/DailyDS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
 | [1534-count-good-triplets](https://github.com/bipul724/DailyDS/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/bipul724/DailyDS/tree/master/1925-count-square-sum-triples) |

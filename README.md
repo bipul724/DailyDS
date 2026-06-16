@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bipul724/DailyDS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/bipul724/DailyDS/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/bipul724/DailyDS/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/bipul724/DailyDS/tree/master/1006-vowel-spellchecker) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/bipul724/DailyDS/tree/master/1007-minimum-domino-rotations-for-equal-row) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/bipul724/DailyDS/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/bipul724/DailyDS/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bipul724/DailyDS/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bipul724/DailyDS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bipul724/DailyDS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/bipul724/DailyDS/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/bipul724/DailyDS/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/bipul724/DailyDS/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bipul724/DailyDS/tree/master/1262-greatest-sum-divisible-by-three) |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/bipul724/DailyDS/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bipul724/DailyDS/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/bipul724/DailyDS/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bipul724/DailyDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/bipul724/DailyDS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bipul724/DailyDS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bipul724/DailyDS/tree/master/0209-minimum-size-subarray-sum) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/bipul724/DailyDS/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bipul724/DailyDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bipul724/DailyDS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bipul724/DailyDS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipul724/DailyDS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bipul724/DailyDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bipul724/DailyDS/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bipul724/DailyDS/tree/master/0349-intersection-of-two-arrays) |

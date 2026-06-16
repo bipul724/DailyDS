@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bipul724/DailyDS/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bipul724/DailyDS/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bipul724/DailyDS/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/bipul724/DailyDS/tree/master/0330-patching-array) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bipul724/DailyDS/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/bipul724/DailyDS/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bipul724/DailyDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bipul724/DailyDS/tree/master/0345-reverse-vowels-of-a-string) |

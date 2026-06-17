@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bipul724/DailyDS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bipul724/DailyDS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bipul724/DailyDS/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/bipul724/DailyDS/tree/master/0165-compare-version-numbers) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bipul724/DailyDS/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/bipul724/DailyDS/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/bipul724/DailyDS/tree/master/0242-valid-anagram) |

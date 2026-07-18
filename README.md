@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bipul724/DailyDS/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bipul724/DailyDS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/bipul724/DailyDS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bipul724/DailyDS/tree/master/0198-house-robber) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bipul724/DailyDS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bipul724/DailyDS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bipul724/DailyDS/tree/master/0171-excel-sheet-column-number) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bipul724/DailyDS/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/bipul724/DailyDS/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/bipul724/DailyDS/tree/master/3201-distribute-candies-among-children-ii) |

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bipul724/DailyDS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipul724/DailyDS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/bipul724/DailyDS/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/bipul724/DailyDS/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/bipul724/DailyDS/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/bipul724/DailyDS/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/bipul724/DailyDS/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/bipul724/DailyDS/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/bipul724/DailyDS/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/bipul724/DailyDS/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |

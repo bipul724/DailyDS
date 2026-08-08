@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bipul724/DailyDS/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/bipul724/DailyDS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bipul724/DailyDS/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bipul724/DailyDS/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/bipul724/DailyDS/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bipul724/DailyDS/tree/master/0062-unique-paths) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bipul724/DailyDS/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/bipul724/DailyDS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bipul724/DailyDS/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -990,4 +993,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bipul724/DailyDS/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bipul724/DailyDS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

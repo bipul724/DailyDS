@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/bipul724/DailyDS/tree/master/2965-find-missing-and-repeated-values) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bipul724/DailyDS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bipul724/DailyDS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bipul724/DailyDS/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/bipul724/DailyDS/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/bipul724/DailyDS/tree/master/2887-sort-vowels-in-a-string) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/bipul724/DailyDS/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bipul724/DailyDS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/bipul724/DailyDS/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/bipul724/DailyDS/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bipul724/DailyDS/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bipul724/DailyDS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bipul724/DailyDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bipul724/DailyDS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bipul724/DailyDS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3208-alternating-groups-ii](https://github.com/bipul724/DailyDS/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bipul724/DailyDS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/bipul724/DailyDS/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |

@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/bipul724/DailyDS/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/bipul724/DailyDS/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/bipul724/DailyDS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bipul724/DailyDS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3797-design-spreadsheet](https://github.com/bipul724/DailyDS/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/bipul724/DailyDS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/bipul724/DailyDS/tree/master/2401-longest-nice-subarray) |
 | [2427-first-letter-to-appear-twice](https://github.com/bipul724/DailyDS/tree/master/2427-first-letter-to-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bipul724/DailyDS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |

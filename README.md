@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/bipul724/DailyDS/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bipul724/DailyDS/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/bipul724/DailyDS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bipul724/DailyDS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bipul724/DailyDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/bipul724/DailyDS/tree/master/0179-largest-number) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/bipul724/DailyDS/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/bipul724/DailyDS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bipul724/DailyDS/tree/master/0231-power-of-two) |

@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bipul724/DailyDS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bipul724/DailyDS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bipul724/DailyDS/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bipul724/DailyDS/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bipul724/DailyDS/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
@@ -1032,4 +1033,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bipul724/DailyDS/tree/master/0322-coin-change) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

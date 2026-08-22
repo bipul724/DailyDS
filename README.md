@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bipul724/DailyDS/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bipul724/DailyDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/bipul724/DailyDS/tree/master/0130-surrounded-regions) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bipul724/DailyDS/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bipul724/DailyDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bipul724/DailyDS/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bipul724/DailyDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1066,4 +1069,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bipul724/DailyDS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bipul724/DailyDS/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bipul724/DailyDS/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/bipul724/DailyDS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/bipul724/DailyDS/tree/master/0931-minimum-falling-path-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/bipul724/DailyDS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/bipul724/DailyDS/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/bipul724/DailyDS/tree/master/0948-bag-of-tokens) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
+| [0931-minimum-falling-path-sum](https://github.com/bipul724/DailyDS/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/bipul724/DailyDS/tree/master/1024-video-stitching) |
 | [1137-n-th-tribonacci-number](https://github.com/bipul724/DailyDS/tree/master/1137-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bipul724/DailyDS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/bipul724/DailyDS/tree/master/0854-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/bipul724/DailyDS/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipul724/DailyDS/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bipul724/DailyDS/tree/master/1171-shortest-path-in-binary-matrix) |

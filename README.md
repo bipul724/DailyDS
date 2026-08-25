@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/bipul724/DailyDS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/bipul724/DailyDS/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bipul724/DailyDS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/bipul724/DailyDS/tree/master/0830-largest-triangle-area) |
 | [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/bipul724/DailyDS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/bipul724/DailyDS/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/bipul724/DailyDS/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bipul724/DailyDS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/bipul724/DailyDS/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/bipul724/DailyDS/tree/master/0931-minimum-falling-path-sum) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bipul724/DailyDS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bipul724/DailyDS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bipul724/DailyDS/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/bipul724/DailyDS/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/bipul724/DailyDS/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/bipul724/DailyDS/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/bipul724/DailyDS/tree/master/1036-rotting-oranges) |

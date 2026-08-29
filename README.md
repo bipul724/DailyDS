@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bipul724/DailyDS/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/bipul724/DailyDS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/bipul724/DailyDS/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/bipul724/DailyDS/tree/master/0165-compare-version-numbers) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bipul724/DailyDS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bipul724/DailyDS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bipul724/DailyDS/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/bipul724/DailyDS/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/bipul724/DailyDS/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bipul724/DailyDS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bipul724/DailyDS/tree/master/0124-binary-tree-maximum-path-sum) |

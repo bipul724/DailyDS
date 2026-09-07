@@ -11,9 +11,9 @@ class Solution {
                 map.get(key).add(strs[i]);
             }
             else{
-                ArrayList<String> list = new ArrayList<>();
-                list.add(strs[i]);
-                map.put(key,list);
+                // ArrayList<String> list = new ArrayList<>();
+                // list.add(strs[i]);
+                map.put(key,new ArrayList<>(Arrays.asList(strs[i])));
             }
         }
         return new ArrayList<>(map.values());

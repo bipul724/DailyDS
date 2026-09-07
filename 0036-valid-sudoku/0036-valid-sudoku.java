@@ -10,7 +10,7 @@ class Solution {
                 }
                 String row = ch+"row"+r;
                 String col = ch+"col"+c;
-                String box = ch+"box"+(r/3)*3+(c/3);
+                String box = ch+"box"+(r/3)+(c/3);
 
                 if(!set.add(row) || !set.add(col) || !set.add(box)){
                     return false;

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bipul724/DailyDS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/bipul724/DailyDS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/bipul724/DailyDS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bipul724/DailyDS/tree/master/0015-3sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bipul724/DailyDS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |

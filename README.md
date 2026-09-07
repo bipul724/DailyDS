@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bipul724/DailyDS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bipul724/DailyDS/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bipul724/DailyDS/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/bipul724/DailyDS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bipul724/DailyDS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bipul724/DailyDS/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/bipul724/DailyDS/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/bipul724/DailyDS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bipul724/DailyDS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bipul724/DailyDS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bipul724/DailyDS/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/bipul724/DailyDS/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/bipul724/DailyDS/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/bipul724/DailyDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bipul724/DailyDS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bipul724/DailyDS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bipul724/DailyDS/tree/master/0347-top-k-frequent-elements) |

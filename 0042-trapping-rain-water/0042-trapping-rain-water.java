@@ -3,22 +3,30 @@ class Solution {
         int left = 0;
         int n = height.length;
         int right = n-1;
-        int leftMax = 0;
-        int rightMax = 0;
+        int leftMax = height[0];
+        int rightMax = height[n-1];
         int water = 0;
 
         while(left<right){
-            leftMax = Math.max(leftMax,height[left]);
-            rightMax = Math.max(rightMax,height[right]);
-
-            if(leftMax<rightMax){
-                water += leftMax - height[left];
+            if(height[left]<height[right]){
+                if(leftMax<height[left]){
+                    leftMax = height[left];
+                }
+                else{
+                    water += leftMax - height[left] ;
+                }
                 left++;
             }
             else{
-                water += rightMax - height[right];
+                if(rightMax<height[right]){
+                    rightMax = height[right];
+                }
+                else{
+                    water += rightMax - height[right] ;
+                }
                 right--;
             }
+
         }
         return water;
     }

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bipul724/DailyDS/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/bipul724/DailyDS/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bipul724/DailyDS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bipul724/DailyDS/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/bipul724/DailyDS/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bipul724/DailyDS/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/bipul724/DailyDS/tree/master/0136-single-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bipul724/DailyDS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bipul724/DailyDS/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bipul724/DailyDS/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/bipul724/DailyDS/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/bipul724/DailyDS/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/bipul724/DailyDS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bipul724/DailyDS/tree/master/0217-contains-duplicate) |
@@ -1094,4 +1096,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bipul724/DailyDS/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bipul724/DailyDS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

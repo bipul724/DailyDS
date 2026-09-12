@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/bipul724/DailyDS/tree/master/0854-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/bipul724/DailyDS/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bipul724/DailyDS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/bipul724/DailyDS/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/bipul724/DailyDS/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/bipul724/DailyDS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bipul724/DailyDS/tree/master/0930-binary-subarrays-with-sum) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bipul724/DailyDS/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bipul724/DailyDS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bipul724/DailyDS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/bipul724/DailyDS/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/bipul724/DailyDS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bipul724/DailyDS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/bipul724/DailyDS/tree/master/1753-path-with-minimum-effort) |
